@@ -14,16 +14,19 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Paul Pennel's Cloud Journey
 
-[✍️ Introduce yourself]
+I'm a developer with 24+ years industry experience.  I work for a large financial company and they are starting
+a foray in to Azure.  I love to play soccer. Married for 23+ years with 3 wonderful children.
 
-[✍️ Tell us why you started this challenge]
+To keep up with what my company's doing, and help them on the journey.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+When I've completed the 100 days, I want to be a full fledged expert on everything cloud.  More realistically I'd
+like a large breadth of knowledge, and some good depth on Azure especially anything DevOps related. I want to
+be able to have a easy and smooth delivery process for applications and Infrastructure as Code.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- @stlwebmaster(https://twitter.com/stlwebmaster)
+- stlwebmaster on Linked in (https://www.linkedin.com/in/stlwebmaster)
 
 ## Stepping out the door
 
