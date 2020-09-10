@@ -13,7 +13,7 @@
 ## Paul Pennel's Cloud Journey
 
 I'm a developer with 24+ years industry experience.  I work for a large financial company and they are starting
-a foray in to Azure.  I love to play soccer. Married for 23+ years with 3 wonderful children.
+a foray in to Azure.  I love to play soccer. Married to my beautiful wife for 23+ years with 3 wonderful children.
 
 To keep up with what my company's doing, and help them on the journey.
 
