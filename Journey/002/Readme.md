@@ -2,7 +2,7 @@
 
 
 # part of the 204 Certification track
-[choose-azure-service-to-integrate-and-automate-business-processes](https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/)
+[choose-azure-service-to-integrate-and-automate-business-processes](https://docs.microsoft.com/en-us/learn/modules/choose-azure-service-to-integrate-and-automate-business-processes/) and
 [create-serverless-logic-with-azure-functions/](https://docs.microsoft.com/en-us/learn/modules/create-serverless-logic-with-azure-functions/)
 
 ## Introduction
