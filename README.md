@@ -29,7 +29,7 @@ be able to have a easy and smooth delivery process for applications and Infrastr
 - [X] ☁️ 1 > [My First Day](Journey/001/Readme.md)
 - [X] ☁️ 2 > [Serverless](Journey/002/Readme.md)
 - [X] ☁️ 3 > [Trigger your function with a webhook sent by updating GitHub wiki](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
+- [ ] ☁️ 4 > [ArgoCD](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
